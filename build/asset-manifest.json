@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FullStackProject/static/css/main.dc52e839.chunk.css",
+    "main.js": "/FullStackProject/static/js/main.9d850990.chunk.js",
+    "main.js.map": "/FullStackProject/static/js/main.9d850990.chunk.js.map",
+    "runtime-main.js": "/FullStackProject/static/js/runtime-main.cdee9e98.js",
+    "runtime-main.js.map": "/FullStackProject/static/js/runtime-main.cdee9e98.js.map",
+    "static/css/2.1060dbbd.chunk.css": "/FullStackProject/static/css/2.1060dbbd.chunk.css",
+    "static/js/2.f9674ef3.chunk.js": "/FullStackProject/static/js/2.f9674ef3.chunk.js",
+    "static/js/2.f9674ef3.chunk.js.map": "/FullStackProject/static/js/2.f9674ef3.chunk.js.map",
+    "index.html": "/FullStackProject/index.html",
+    "static/css/2.1060dbbd.chunk.css.map": "/FullStackProject/static/css/2.1060dbbd.chunk.css.map",
+    "static/css/main.dc52e839.chunk.css.map": "/FullStackProject/static/css/main.dc52e839.chunk.css.map",
+    "static/js/2.f9674ef3.chunk.js.LICENSE.txt": "/FullStackProject/static/js/2.f9674ef3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdee9e98.js",
+    "static/css/2.1060dbbd.chunk.css",
+    "static/js/2.f9674ef3.chunk.js",
+    "static/css/main.dc52e839.chunk.css",
+    "static/js/main.9d850990.chunk.js"
+  ]
+}
